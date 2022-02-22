@@ -1,5 +1,5 @@
 import {  useEffect, useState } from "react";
-import { useQuery } from "../Hooks/useQuery"; 
+//import { useQuery } from "../Hooks/useQuery"; 
 import { get } from "../utils/httpClient";
 import { MovieCard } from "./MovieCard";
 //import movies from "./movies.json";

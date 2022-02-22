@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useEffect } from "react";
 import { useParams} from "react-router";
 import { Spinner } from "../componentes/Spinner";
-import { useQuery } from "../Hooks/useQuery";
+// import { useQuery } from "../Hooks/useQuery";
 import { getMovieImg } from "../utils/getMovieImg";
 import { get } from "../utils/httpClient";
 //import movie from "./movie.json";

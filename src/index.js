@@ -5,14 +5,14 @@ import { App } from './App';
 
 
 
-function Componente({ titulo, children }){
-  return(
-    <div className='contenedor'>
-      <h1> { titulo} </h1>
-      <div> { children } </div>
-    </div>
-  )
-}
+// function Componente({ titulo, children }){
+//   return(
+//     <div className='contenedor'>
+//       <h1> { titulo} </h1>
+//       <div> { children } </div>
+//     </div>
+//   )
+// }
 
 ReactDOM.render(
   <App/>,

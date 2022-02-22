@@ -1,4 +1,4 @@
-import { MoviesGrid } from "./componentes/MoviesGrid";
+// import { MoviesGrid } from "./componentes/MoviesGrid";
 import styles from './App.module.css';
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import { MovieDetails } from "./pages/MovieDetails";
